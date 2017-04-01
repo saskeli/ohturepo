@@ -9,6 +9,6 @@ public class MultiplierTest {
 	public void kertominenToimii() {
 		Multiplier five = new Multiplier(5);
 		assertEquals(5, five.multipliedBy(1));
-		assertEquals(34, five.multipliedBy(7));
+		assertEquals(35, five.multipliedBy(7));
 	}
 }
