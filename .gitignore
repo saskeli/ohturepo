@@ -1,3 +1,5 @@
 .gradle/
 build/
 *.swp
+/HelloCucumber/.nb-gradle/
+/LoginCucumber/.nb-gradle/
