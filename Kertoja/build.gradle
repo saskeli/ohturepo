@@ -31,6 +31,7 @@ dependencies {
 */
 apply plugin: "application"
 apply plugin: "java"
+apply plugin: "checkstyle"
 
 repositories {
     jcenter()
