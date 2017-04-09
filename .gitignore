@@ -3,3 +3,5 @@ build/
 *.swp
 /HelloCucumber/.nb-gradle/
 /LoginCucumber/.nb-gradle/
+/WebLogin/.nb-gradle/
+/TyhjaProjekti/.nb-gradle/
