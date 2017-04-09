@@ -77,4 +77,10 @@ public class Stepdefs {
         element = driver.findElement(By.name("login"));
         element.submit();  
     } 
+    
+    @When("^noexistent username \"([^\"]*)\" and password \"([^\"]*)\" are given$")
+    public void noexistent_username_and_password_are_given(String username, String password) throws Throwable {
+        logInWith(username, password);
+    }
+
 }
