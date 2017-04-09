@@ -1,0 +1,5 @@
+pekka;akkep
+jukka;akkuj
+nakki;makkara
+joo;ei 
+hukka;putki
