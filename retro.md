@@ -1,4 +1,3 @@
-
 # Retrospektiivitekniikoita
 
 **Start, Stop, Continue, More of, Less of Wheel** ja **Glad, Sad, Mad** ovat kaksi erilaista retrospektiivitekniikkaa. Tarjoavat siit työkaluja siihen miten retrospektiivitapaaminen voidaan toteuttaa.
